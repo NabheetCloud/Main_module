@@ -1,0 +1,6 @@
+[submodule "Project2"]
+	path = Project2
+	url = https://github.com/NabheetCloud/Project2
+[submodule "Project1"]
+	path = Project1
+	url = https://github.com/NabheetCloud/Project1
